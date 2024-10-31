@@ -1,2 +1,2 @@
 #Project 
-This is the first project on a beginner levelon machine learning
+This is the first project on a beginner level on machine learning
